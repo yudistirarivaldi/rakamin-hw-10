@@ -1,4 +1,4 @@
-# rakamin-hw8
+# rakamin-hw-10
 
 Cara menjalankan
 
@@ -11,15 +11,17 @@ untuk menjalankan
 $ npm run dev
 ```
 
-tampilan untuk menjalankan endpoint login
+tampilan untuk menjalankan endpoint register dan upload photo
 
-![image](https://github.com/yudistirarivaldi/rakamin-hw8/assets/79072313/ecd34ac7-116d-4ede-890e-e979b050add0)
+![image](https://github.com/yudistirarivaldi/rakamin-hw-9/assets/79072313/f4ee878f-ef68-4764-ba5f-6d6998b146a4)
 
-tampilan untuk menjalankan endpoint register
+tampilan database ketika sudah menjalankan endpoint register dan upload photo 
 
-![image](https://github.com/yudistirarivaldi/rakamin-hw8/assets/79072313/b8afd97a-64ca-455f-96bb-9fa30c62e8db)
+![image](https://github.com/yudistirarivaldi/rakamin-hw-9/assets/79072313/b421d4b1-7e10-40a1-9998-4bcc38f10a0a)
 
-tampilan untuk dokumentasi api movies menggunakan swagger
+hasil upload image tersimpan di dalam folder public/image
 
-![image](https://github.com/yudistirarivaldi/rakamin-hw8/assets/79072313/42a082ef-44b0-495f-ad7d-262f6e8eefbb)
+![image](https://github.com/yudistirarivaldi/rakamin-hw-9/assets/79072313/d9864aa6-569c-493b-99c1-fc94487f9b38)
+
+
 
